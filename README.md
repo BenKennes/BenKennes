@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @BenKennes
 - 👀 I’m interested in Automation, Industrial Networks, Smart Industry & vertical integration
-- 🌱 I’m currently learning C#
-- 🎒 Currently enrolled @AP Hogeschool
